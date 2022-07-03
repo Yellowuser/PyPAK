@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cp pypak.pypak ppak.pypak
-mv ppak.pypak /usr/bin/PyPAK/cache
-cd /usr/bin/PyPAK/cache
-python3 -m read
