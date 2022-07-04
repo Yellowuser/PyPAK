@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /usr/bin/PyPAK/
+./cache.cleaner.sh
+cp pypak.pypak ppak.pypak
+mv ppak.pypak /usr/bin/PyPAK/cache
+cd /usr/bin/PyPAK/cache
+python3 -m read
