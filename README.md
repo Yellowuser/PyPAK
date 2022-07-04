@@ -2,7 +2,7 @@
 ## What is PyPAK?
 ### PyPAk is a package tool for python code.
 ## Usage
-Open a terminal in the directory with the .pypak file and enter the command -- pypak --
+Open a terminal in the directory with the .pypak file and enter the command "sudo pypak"
 ## Installation
 - 1.Create directory "PyPAK" in /usr/bin/
 - 2.Create directory "cache" in /usr/bin/PyPAK
